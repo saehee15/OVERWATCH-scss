@@ -1,4 +1,4 @@
-# SCSS
+SCSS
 ### 주석
 #### /* background-color: orange; */ CSS로 컴파일시 남아있음
 #### // 은 CSS로 컴파일시 없어짐
